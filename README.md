@@ -28,7 +28,6 @@ Users should be able to:
 
 ![Desktop Profile](/screenshots/profile-desktop.png)
 ![Mobile Profile](/screenshots/profile-mobile.png)
-![Profile Demo](/screenshots/profile-demo.mkv)
 
 ### Links
 
