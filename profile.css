@@ -1,0 +1,89 @@
+* {
+    font-family: "Inter";
+}
+
+body {
+    background-color: hsl(0, 0%, 8%);
+}
+
+main {
+    background-color: hsl(0, 0%, 12%);
+    margin: 200px 500px;
+    padding: 50px 20px;
+    border-radius: 10px;
+}
+
+img {
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    margin-bottom: 3px;
+    font-weight: 400;
+}
+h3 {
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+    margin-top: 0;
+    font-weight: 600;
+}
+p {
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+section button {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    width: 90%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    margin: 10px 20px;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+button:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+    cursor: pointer;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color:hsl(0, 0%, 100%);
+  }
+  .attribution a {
+    color: hsl(0, 0%, 100%);
+  }
+  .attribution a:hover {
+    color: antiquewhite;
+  }
+  @media screen and (max-width: 1400px) {
+    main {
+      margin: 100px 250px;
+
+    }
+}
+@media screen and (max-width: 808px) {
+    main {
+      margin: 50px 125px;
+
+    }
+}
+@media screen and (max-width: 556px) {
+    main {
+      margin: 50px 10px;
+
+    }
+}
