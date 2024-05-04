@@ -31,9 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Profile Solution](https://www.frontendmentor.io/solutions/social-media-profile-FKhEJiHJMb)
 - Live Site URL: [Profile Page](https://bobfisherman18.github.io/social-links-profile/)
-
 ## My process
 
 ### Built with
