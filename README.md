@@ -28,12 +28,11 @@ Users should be able to:
 
 ![Desktop Profile](/screenshots/profile-desktop.png)
 ![Mobile Profile](/screenshots/profile-mobile.png)
-![Profile Demo](/screenshots/profile-demo.mkv)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Profile Page](https://bobfisherman18.github.io/social-links-profile-main/)
 
 ## My process
 
